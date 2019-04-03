@@ -26,7 +26,10 @@ import pylab
 def multialign_genomic_templates(fastafile):
     """Uses MUSCLE to return the multi-aligned genomic data."""
     from Bio.Align.Applications import MuscleCommandline
-    from StringIO import StringIO
+    try:
+            from StringIO import StringIO
+    except ImportError:
+            from io import StringIO
     from Bio import AlignIO
 
     muscle_cline = MuscleCommandline(input=fastafile)
