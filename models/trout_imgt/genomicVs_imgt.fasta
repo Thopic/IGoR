@@ -1,0 +1,539 @@
+>IMGT000043|oncmyk_IGHV1-13*01|Oncorhynchus mykiss|IGHV1|F|V-REGION
+ggtcagacattgactgag......tctggacca...gtggttaaaaatcctggagaatcc
+cacaaactg...acctgtacaggttctgggttcacattc............agtagctat
+gagatgaactggatcagacaggctcctgggaaaggattggagtggattgcctatagttat
+agt............actactacatattactcccagtcagtccaa...ggtagattcact
+atctccagagatgactccagcagtaaactgtacctacagatgaacagtctgaggagtgag
+gacacagcagtgtattactgtgctagagagt
+>IMGT000043|oncmyk_IGHV1-18*01|Oncorhynchus mykiss|IGHV1|F|V-REGION  a verifier
+ggtcagacactgactgag......tctggacca...gggattaaaacgcctggagaatcc
+aacacactg...agttgtaccacctctgggttcacattc............agtagctac
+catatggcttggatgaaacaggctcctgggaaaggacttgagtttgttgcctttatacac
+actggt......ggatcgagtccattctattctcagtcaatacag...ggtagattcacc
+atctccagagatgactccagcagtaagctgtacctacagatgaacagtctgaagagtgag
+gacacagcattgtattactgtgcccggtaca
+>IMGT000043|oncmyk_IGHV1-2*01|Oncorhynchus mykiss|IGHV1|F|V-REGION
+ggtcagacattgactgag......tctggacca...gtaattaaaacgcctggagaatcc
+cacacactg...atctgtacaggttctgggttcacgttc............aaggactat
+tggatgagttggatcagacaggctcctgggaaagaactggaatggattggttatatacat
+ggt............actactacatattactcccagtcatttcag...ggtagattcacc
+ctctccagagatgactccagcagtaagctgtacctacagatgaacagcctgaagagtgag
+gacacagcagtgtattactgtgcccggtaca
+>IMGT000043|oncmyk_IGHV1-21*01|Oncorhynchus mykiss|IGHV1|P|V-REGION
+ggtcagacactaactgag......tctggacca...gttgtaaaaataactggagaacca
+cacaaagtg...acctgtacagcttctggcttcacattc............agtaactac
+tggatggcttggatcagacaggctcctgggaaaggacttgaatggattgccattataaaa
+tatgat......agtgctgaaatctactactcccagtcagtccag...ggtcggttcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaacagtctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV1-36*01|Oncorhynchus mykiss|IGHV1|F|V-REGION
+agtcagatattgactgag......tctggacca...gtagttaaaaagcctggagaatca
+cacaaactg...acctgtacaacctctgggttcacattc............agtagctac
+tacatggcttggatcagacaggctcctgggaaaggactggagtggattgcttctagttat
+agt............actgctacatattattcccagtcagtccag...ggtagatttacc
+atctccagagatgactccagaagtaagctgtacctacagatgaacattctgaagagtgag
+gacacagcagtgtattactgtgctagagagt
+>IMGT000043|oncmyk_IGHV1-39*01|Oncorhynchus mykiss|IGHV1|F|V-REGION
+ggtcagacactgactgag......tctggacca...gtggttaaacatcctggagaatca
+cacaaactg...acctgtacaggctctgggttcacattc............agtagctat
+gggatgaactggatcagacaggctcctgggaaaggactggagtggattgcttatagttat
+agt............actactgctgactactcccagtcatttcag...ggtagattcacc
+atctccagagatggctccagcagtaagctgtacctacagatgaacagtctgaggagtgag
+gacacagcagtatattactgtgcccggtaca
+>IMGT000043|oncmyk_IGHV1-41*01|Oncorhynchus mykiss|IGHV1|P|V-REGION
+ggtcagacactgactgag......tctggacca...gtagttaaaaagcctggagaatca
+cacaaactg...acctgtacagcatctgagttcacattc............agtagctat
+aggatgggttagatcagacaggctccttggaaaggactggggtgggttgcttatataggc
+acatct......agtagtccaatctcttcctcccagtcagtccag...ggtagattcact
+atctccagagatgactccagcagtaagctgtactgacagatgaacagtctgaagagtgag
+gacacagcagtgtattactgtgctagagagt
+>IMGT000043|oncmyk_IGHV1-42*01|Oncorhynchus mykiss|IGHV1|F|V-REGION
+ggtcagacactgacggag......tctgaatca...gtggttaaaaagcctggagaatcc
+cacaaactg...acctgtacatattctgggtttggtggc...............aacaat
+tggaatgcttggatcagacaggctcctgggaaaggactggagtgggtttcagctattacc
+agcagtgat...ggtggcagcacttactactcccagtctgttcag...ggtcagttcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaacagcttgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV10-47*01|Oncorhynchus mykiss|IGHV10|F|V-REGION
+gacatcacattaacccaa......cctggttct...atggttgtaagtccaggagagtct
+gtcaccatc...ccctgtaaggttgctggttattctgtt............actagcact
+tgcaccaactggattcgccattctgaaggaaaagctatggagtggattggatacctgtgt
+agtagt.........agtagcagtggcacaacagactcattaaag...agcaaaatcagc
+ttcactgttgactcctccagcagcacagtgtttctacaagggaagaatttccagactgaa
+gacacagctgtgtattactgtgctcgctacccc
+>IMGT000044|oncmyk_IGHV10D-26*01|Oncorhynchus mykiss|IGHV10D|F|V-REGION
+gatattgaactcatccag......tctggtcca...gtggttatagaaccaggagtgtct
+ttcagcatc...tcctgcaaattctctgggttttctata............tcttcttat
+tgtcttggatggatacgacaagctgaagggaaagctttggagcatgttggtgttacatgc
+............agtagtagtacttacactgtagactcacta...aagagcaagatcact
+tctagatatgacagttccagcagtacagtgtttctacaagggaacaacttccagactgaa
+gacacagctgtgtattattgtgctcggagga
+>IMGT000044|oncmyk_IGHV10D-7*01|Oncorhynchus mykiss|IGHV10D|F|V-REGION
+gatattgaactcatccag......tctggtcca...gtggttatagaaccaggagtgtct
+ttcagcatc...tcctgcaaattctctgggttttctata............tcttcttat
+tgtcttggatggatacgacaagctgaagggaaagctttggagcatgttggttatacatgc
+agt............agtagtacttacactgtagactcactaaag...agcaagatcact
+tctagatatgacagttccagcagtacagtgtttctacaagggaacaacttccagactaaa
+gacacagctgtgtattattgtgcccgtgaga
+>IMGT000044|oncmyk_IGHV10D-9*01|Oncorhynchus mykiss|IGHV10D|F|V-REGION
+gatattgaactcatccag......tctggtcca...gtggttatagaaccaggagtgtct
+ttcagcatc...tcctgcaaattctctgggttttctata............tcttcttac
+tgtcctcactggatacgacaaactgaaggcaaagcgttggagtatgttggttatacatgc
+agt............agtagtacttacactgtagactcactaaag...agcaagatcact
+tctagatatgacagttccagcagtacagtgtttctacaagggaacaacttccagactgaa
+gacacagctgtgtattattgtgctcggagga
+>IMGT000043|oncmyk_IGHV11-25*01|Oncorhynchus mykiss|IGHV11|F|V-REGION
+agcattagtttgacctcc......tcccctgct...caactcaaacctcctggagattca
+gtgaaacta...tcttgccaagtctctggctatgtcctg............acagactat
+ggcacaggttggatacgacagcagccagggaaaacactggagtggattgggatcatctgg
+ggtggt.........ggatccatcaactctggagcctcttttaag...agcagattcacc
+atctccagagac...agtagtaatgtactgtacttagacatcagcagtctgcaggctgag
+gacacagctgtgtattattgtgcaaaaactggagg
+>IMGT000044|oncmyk_IGHV12D-36*01|Oncorhynchus mykiss|IGHV12D|F|V-REGION
+ggtcttgagctcacccaa......ccaagctca...ttggatgtaaagcctggagagtct
+ttgagcatc...acctgtaaggtctctggttattctctgactgatagcagcaacgtctat
+ggaataggctggatccgtcagcctgtaggaaaagcacttgaatggatttggaccatctat
+tatgat.........ggaagctcaagctctcaaagttccctaaaa...gacaggttcagt
+gtcacaagagacacttccagtaatactgtgtttttaacaggacagaatctgcagactgaa
+gacacagctgtgtattattgtgctcggtagc
+>IMGT000044|oncmyk_IGHV12D-56*01|Oncorhynchus mykiss|IGHV12D|F|V-REGION
+ggtcttgagctcacccaa......ccaagctca...ttggatgtaaagcctggagagtct
+ttgagcatc...acctgtaaggtctctggttattctctgactgatagcagcaacgtctat
+ggaataggctggatccgtcagcctgtaggaaaagcacttgaatggatttggaccatctat
+tatgat.........ggaagctcaaactctcaaagttccctaaaa...gacaggttcagt
+gtcacaagagacacttccagcaacacagtgtttttaaaaggacagaatctgcagactgaa
+gacacagctgtgtattattgtgctcggtagc
+>IMGT000044|oncmyk_IGHV12D-57*01|Oncorhynchus mykiss|IGHV12D|F|V-REGION
+ggtcttgagctcacccaa......ccaagctca...ttggatgtaaagcctggagagtct
+ttgagcatc...acctgtaaggtctctggttattctctgactgatagcagcaacgtctat
+ggaataggctggatccgtcagcctgtaggaaaagcacttgaatggatttggaccatctat
+tatgat.........ggaagctcaaactctcaaagttccctaaaa...gacaggttcagt
+gtcacaagagacacttccagcaacacagtgtttttaaaaggacagaatctgcagactgaa
+gacacagctgtgtattattgtgctcggtagc
+>IMGT000044|oncmyk_IGHV12D-71*01|Oncorhynchus mykiss|IGHV12D|F|V-REGION
+ggtcttgagctcacccaa......ccaagctca...ttggatgtaaagcctggagagtct
+ttgagcatc...acctgtaaggtctctggttattctctgactgatagcagcaacgtctat
+ggaataggctggatccgtcagcctgtaggaaaagcacttgaatggatttggaccatctat
+tatgtt.........ggaagctcaaactctcaaagttccctaaaa...gacaggttcagt
+gtcacaagagacacttccagcaacacagtgtttttaaaaggacagaatctgcagactgaa
+gacacagctgtgtattattgtgctcggtggc
+>IMGT000043|oncmyk_IGHV14-33*01|Oncorhynchus mykiss|IGHV14|P|V-REGION
+agtgttgaacacaaccag......ccaaactca...ttgagtttaaagcctggagaaact
+ttgactatc...agttgtgcaatctcagggtattctctt......acagacaacagctat
+gcggtagcttggatccgacagtctgcagggaaaccaatggaatgcattttttatatttgg
+ggt.........ggtggtagtttttaccttaacaatgcacta...aaaaacaagttcagc
+tttagaagagacatgtccagcagtacttcaactctaataggacagaacctgcagactgaa
+gacacagctgtgtattattgtgctcgacgac
+>IMGT000044|oncmyk_IGHV15D-49*01|Oncorhynchus mykiss|IGHV15D|P|V-REGION
+acacagtgccttagaccactgcgccacacggga...gccctggagaaaccaggagaaact
+ctcaaccta...tcttgcagaggaactgggtataccttt............acaagctct
+ggtatgatctggattcaccaacctacagggaaaccattggaatgggtgggctggatcaac
+accaat......actggagcagcaggctatgccaaaaccatggag...ggacagattgaa
+ctgaccaaagacagcccagtgagcatgacacatctgaaactgtctggtctgaaggcagag
+gactctgctgtgtattactgggtaca
+>IMGT000044|oncmyk_IGHV15D-54*01|Oncorhynchus mykiss|IGHV15D|F|V-REGION
+ggtcagagtatggagtccattccctctagtcca...gtcatgaaaaagcctggagaaact
+ctcaatctc...tcctgtaaaggatctgggtatactttt............ggaaaccat
+gccgtgcactgggtacgacaaccaaaaggaaaaggactagagtggataggacgtgtgaga
+acagat......actggtgaagcaacgtatgccaacagcgttagt...ggacgccttgaa
+ataactaaggacaatgcccaaagcatgtcattcctgaagctgtctggtgtgagagcagag
+gactctgctgtgtattactgtgcacgtcaga
+>IMGT000044|oncmyk_IGHV15D-69*01|Oncorhynchus mykiss|IGHV15D|P|V-REGION
+acacagtgccttagaccactgcgccacacggga...gccctggagaaaccggtagaaact
+ctcaaccta...tcttgcagaggaactgggtataccttt............acaagctct
+ggtatgatctggattcaccaacctacagggaaaccattggaatgggtgggctggatcaac
+accaat......actggagcagcaggctatgccaaaaccatggag...ggacagattgaa
+ctgaccaaagacagcccagtgagcatgacacatctgaaactgtctggtctgaaggcagag
+gactctgctgtgtattactgggtacag
+>IMGT000043|oncmyk_IGHV16-14*01|Oncorhynchus mykiss|IGHV16|ORF|V-REGION
+agtcagagtctggaggacattccctccagtcca...gtcatgaaaaagcctggagaactt
+ctcagcctc...tcctgtaagggatctggctttaccttt............agtagctac
+aacatggcctggatacgtcaacctgaaggaagaacacttgaatggataggcattatatgg
+aatgat......gctagtggaactgtatatacaaaaagtgttgaa...ggacggatagaa
+gtcaccagagacaattctaacagcatggtgtatctgaagctgtctggtctgagagcagag
+gactctgctgtgtattactgtgcaagagagg
+>IMGT000043|oncmyk_IGHV16-37*01|Oncorhynchus mykiss|IGHV16|ORF|V-REGION
+ggtcagagtatggagtccattccctctggtcca...gtcctgaaaaagcctggagatact
+ctcagcctc...tcctgtaagggagatggctttacattt............agtagctat
+ggcatgcactggatacgacaacctgcagaaaaagcactggactggatgggattaatctac
+tatgat......gccagcaaaacgatctattcaaaaaatattgaa...ggacgtatagaa
+gtcaccagagataattctaacagcgtggtgtatctgaagctctctggtctaagagcagag
+gactctgctgtgtattactgtgcaagacaga
+>IMGT000043|oncmyk_IGHV16-38*01|Oncorhynchus mykiss|IGHV16|P|V-REGION
+agtcagagtctggaggacattccctccagtcca...gtcatgaaaaagcctgcagaacct
+ctcagcctc...tcctgtaagggatctggctttacc............tttagtagctac
+aacatggcctggatacgtcaacctgaaggaagaacacttgaatggataggcattatatga
+agt......gatgctggtggaactgtatatacaaaaagagtt...gaaggacggatagaa
+gtcaccagagacaattctaacagcatgttgtatctgaagctgtctggtctgagagcagag
+gactcagctgtgtattactgtgcaagagagg
+>IMGT000043|oncmyk_IGHV16-9*01|Oncorhynchus mykiss|IGHV16|P|V-REGION
+ggtcagagtctagaggacattccctccagtcca...gtcctgaaaaagcctggagtacct
+ctcagcctc...tcctgtaagggatctgcctatatatgt............agtagctac
+catatgggctggataagacaaccagcatgaaaagcttgagaatggattggcgctgtatga
+agtgat......gctagtggaactgtgtatgcaaaaagtgttgaa...ggacggatagaa
+gtcaccatagataattctaacagcatggtgtatctgaagctgtctggtttgagagcagag
+gactctgctgtgtattactgtgcaagaga
+>IMGT000044|oncmyk_IGHV16D-79*01|Oncorhynchus mykiss|IGHV16D|P|V-REGION
+ggtcagagtctggaggccattccctccagtcca...gtcctgaaaaagcctggagaacct
+ctcagcctc...tcctgtaagggatctgcgtttaacttt............agtagctaa
+aacatggcctggatacatcaacctgcaggaagagcacttgaattgataggcattatatgg
+agtgat......gctggtggaactgcatatacaaaaagagttgaa...ggacagatagaa
+gtcaccagagagaattctaacagcatcgtgtatctgaagctgtctgttctgagagcagag
+gactctgctgtgtattactgtgcacaagaga
+>IMGT000044|oncmyk_IGHV1D-12*01|Oncorhynchus mykiss|IGHV1D|P|V-REGION
+ggtcagaggctgattcag......tctggacca...gtagttaaaaagccagaagaacca
+cacaaactg...acctgtacagcctcggatttagacatg............aatagctac
+tggatggcttggatcagacaggctcctgggaaaggactggagtgggttgcaactattacc
+cataac......agcagaagcactttctacccccagtctgttcaa...ggtcggttcatc
+atctccagagacaacagcataaaacaggtgtatctccagatgaacagcctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000044|oncmyk_IGHV1D-15*01|Oncorhynchus mykiss|IGHV1D|ORF|V-REGION
+agtcaaacactgactgag......tctggacca...gtggttaaaaagcctttagaagcc
+cacaaactg...acctgtacagcctctaatttagacata............aatggctat
+tggattgcatggatcaaacaggctcctggtaaaggactagaatttgtggcagcgcattat
+aacatt.........agaaatattgcctactcccagtctgttcag...ggtcggttcacc
+atctccagagacaacagcatgaagcaggtgtatctccagatgaacagcctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000044|oncmyk_IGHV1D-16*01|Oncorhynchus mykiss|IGHV1D|F|V-REGION
+agtcagacattgaccgag......tctggacca...gtagttaaaaatcctggggaaaca
+cacaaactg...acctgtacttatgatggaatgtcaaac............aataatgct
+catattagctggataagacaggctcctgggaaagggctggagtgggtttgtcatatttct
+gcaccaagt...ggagctgacaaatactactccaagtcagttcaa...ggtcggttcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaataacctgaagactgaa
+gactctgctgtgtattattgtgccagaga
+>IMGT000044|oncmyk_IGHV1D-17*01|Oncorhynchus mykiss|IGHV1D|F|V-REGION
+cgtcagacactgactgag......tctggacca...ttggttaaaaattctcaggattcc
+cacaaactg...acctgtacatgtagcgggtttggtgga...............aacatt
+tatgcagcttggatcagacaggctcctgggaaaggactggagtgggtgtcctatattagc
+agttat......agtggcagcacgtactactcccagtctgttcag...ggtcggttcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaacagactgaagactgaa
+gactctgctgtttattgttgtgccaga
+>IMGT000044|oncmyk_IGHV1D-35*01|Oncorhynchus mykiss|IGHV1D|F|V-REGION
+ggtcagacactgactgag......tctggacca...gtggttaaaaagcctggagaatca
+cacaaactg...acctgtacagcctctgggttcacattc............agtagctat
+gtgatgaactgggtcagacaggctcctgggaaaggattagagtggattgcttatatcagc
+acagct......agtacacccatatattactcccagtcagtccag...ggtagattcacc
+atctctagagatgactccagtagtaagctgtacctacagatgaacagtctgaagagtgaa
+gacacagcggtgtattactgtgcccggtaca
+>IMGT000044|oncmyk_IGHV1D-38*01|Oncorhynchus mykiss|IGHV1D|P|V-REGION
+ggttagacactgacggag......tctgaatca...gtggttaaaaagcatggagaatcc
+cacaaactg...acctgtacatattctgggtttggtggc...............aactat
+tggaatgcttggatcagacaggctcctgggaaaggactggagtgggttgcaactatcagt
+gatggt.........ggcagcacttactacccccagtctgttcag...ggtcgggtcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaacagtctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000044|oncmyk_IGHV1D-4*01|Oncorhynchus mykiss|IGHV1D|ORF|V-REGION
+agtcaaacactgactgag......tctggacca...gtggttaaaaagcctttagaagcc
+cacaaactg...acctgtacagcctctaatttagacata............aatggctat
+tggattgcatggatcaaacaggctcctggtaaaggactagaatttgtggcagcgcattat
+gacatt.........agaaatattgcctactctcagtcttttcag...ggtcggttcacc
+atctccagagacaacagcatgaagcaggtgtatctccagatgaacagcctgaagactgaa
+gactctgctgtgtattattgtgccagaga
+>IMGT000044|oncmyk_IGHV1D-70*01|Oncorhynchus mykiss|IGHV1D|F|V-REGION
+ggtcagacactgactgag......tctggacca...gtggttaaaaagcctggagaatca
+cacaaactg...acctgtacagcctctgggttcacattc............agtagctat
+gcgatgaactgggtcagacaggctcctgggaaaggattagagtggattgcttatatcagc
+acagct......agtacacccatatattactcccagtcagtccag...ggtagattcacc
+atctctagagatgactccagcagtaagctgtacctacagatgaacagtctgaagagtgaa
+gacacagcggtgtattactgtgcccggtaca
+>IMGT000044|oncmyk_IGHV1D-73*01|Oncorhynchus mykiss|IGHV1D|F|V-REGION
+ggtcagacactgacggag......tctgaatca...gtggttaaaaagcctggagaatcc
+cacaaactg...acctgtacatattctgggtttggtggc...............aactat
+tggaatgcttggatcagacaggctcctgggaaaggactggagtgggttgcaactatcagt
+gatggt.........ggcagcacttactacccccagtctgttcag...ggtcgggtcacc
+atctccagagacaacagcaagcagcaggtgtatctccagatgaacagtctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV2-27*01|Oncorhynchus mykiss|IGHV2|P|V-REGION
+ggtcagagtctggatcccagtccctccagttca...gtcctgaaaaagcttggataaact
+ataagtctc...tcctgtaagatatctggattcaccttt............gacagccac
+aacacacaatggataagacagccagctggaatatccctagaatggatgggttactctgga
+tta............ggcctaggctaccatgctaaaaggtttgaa...ggacatatggaa
+acgacaaaagacaattccaacagcatgatgactctgaagctgtctggtctgagaacagag
+gactctgctgtgtattactgtgcaagata
+>IMGT000043|oncmyk_IGHV2-28*01|Oncorhynchus mykiss|IGHV2|F|V-REGION
+ggtcagagtctggagtccattccctccaattca...gtcatgaaaaagcctggagaaact
+ctcagtctc...tcctgtaagggatctgggtataccttt............agtagctac
+aacacacattggattagacaacctgctgggaaagcattggaatggatgggttattctgga
+tta............ggcctaggctaccatgctaaaagctttgaa...ggacgtatggaa
+acgactaaagataattccaacagcatgatgactctgaagctgtctggtctgagagcagag
+gactctgctgtgtattactgtgcacgagaca
+>IMGT000043|oncmyk_IGHV2-8*01|Oncorhynchus mykiss|IGHV2|F|V-REGION
+ggtcagagtctggagtccattccctctagtcca...gtccagaaaaatcccggagaaact
+ctcagtctg...tcctgtaagatatctggattcaccttt............gacagccac
+aacacacactggatacgacagccagcaggaaaatccctggagtggttgggtttttctgga
+tta............ggcctaggttaccatgctaaaaggtttgaa...ggacgtatggaa
+accactaaagatactagtaacagcatgttgactttgatgctgtctggtctgagaacagag
+gactctgctgtgtattactgtgcaagaga
+>IMGT000044|oncmyk_IGHV2D-11*01|Oncorhynchus mykiss|IGHV2D|F|V-REGION
+ggtcagagtctggagtccattccctccagtcca...gtcctgaaaaagcctggagaaact
+ctcagtctg...tcctgtaagatatctggatacactgtt............gacagccac
+agcacacactggatacaacagccagctggaaaatctctggagtggatgggttattctgga
+tta............ggcctaggttaccatgctaaaacttttgaa...ggacgtatggaa
+accactaaagataactccaacagcatgttgactctgaagctgtctggtctgagagcagag
+gactctgcagcgtattactgtgcaagagaga
+>IMGT000044|oncmyk_IGHV2D-28*01|Oncorhynchus mykiss|IGHV2D|F|V-REGION
+ggacagagtctggaatccagtccctccagttca...gtcctgaaaaggcttggagagact
+ttcagtctc...tcctgtaagatatctggattcaacttt............aacagccac
+aacacacactggatacgacagccagcaggaaaatccctggagtggatgggttattctgga
+tta............ggcctaggtaaccatgctaaaacttttgaa...ggacgcatggaa
+acgactaaagataattccaacagcatgatgactctgaagctgtcaggtctgagaacagag
+gactctgctgtgtattactgtgcaagagaga
+>IMGT000044|oncmyk_IGHV2D-50*01|Oncorhynchus mykiss|IGHV2D|P|V-REGION
+ggccagagtctggagtccattccctccagtcca...gtcctgaaaaagcctggagaaact
+ctcagtctg...tcctgtaagatatctggatacactgtt............aacagccac
+cacacacactggatacgacagccagcaggaaaatctctggagtggatgggttattctgga
+tta............ggcctaggttaccatgctaaaacttttgaa...ggacgcatggaa
+acgactaaagataactccaacagcatgttgactctgaagctgtcgggtctgagagcagag
+gactctgctgtgtattactgtgcaagagaga
+>IMGT000044|oncmyk_IGHV2D-51*01|Oncorhynchus mykiss|IGHV2D|F|V-REGION
+ggccagagtctggagtccattccctccagtcca...gtcctgaaaaagcctggagaaact
+ctcagtctg...tcctgtaagatatctggatacactgtt............aacagccac
+cacacacactggatacgacagccagcaggaaaatctctggagtggatgggttattctgga
+tta............ggcctaggttaccatgctaaaacttttgaa...ggacgcatggaa
+acgactaaagataactccaacagcatgttgactctgaagctgtcgggtctgagagcagag
+gactctgctgtgtattactgtgcaagagaga
+>IMGT000044|oncmyk_IGHV2D-68*01|Oncorhynchus mykiss|IGHV2D|P|V-REGION
+ggccagagtctggagtccattccctccagtcca...gtcctgaaaaagcctggagaaact
+ctcagtctg...tcctgtaagatatctggatacactgtt............aacagccac
+cacacacactggatacgacagccagcaggaaaatctctggagtggatgggttattctgga
+tta............ggcctaggttaccatgctaaaacttttgaa...ggacgcatggaa
+acgactaaagataactccaacagcatgttgactctgaagctgtcgggtctgagagcagag
+gactctgctgtgtattactgtgcaagagaga
+>IMGT000043|oncmyk_IGHV3-20*01|Oncorhynchus mykiss|IGHV3|F|V-REGION
+cagactgagctcacacag......ccaggctct...ttgaccctgcagcctggacagcct
+ctgaccctc...tcctgtaaggtctctgggtattctttaacc......agtaccagctac
+tgtacaggttgggtacgacagcctgcaggaaaagcactggagtgggttggagaaatgtgt
+ggcagt.........ggtaacatatactacagtgataagctgaaa...aacaaattcagt
+atctccagagatacttccagcagcacagtgactttaacaggacagagtctgcagactgaa
+gacacagctgtatattattgtgctcgacgac
+>IMGT000044|oncmyk_IGHV3D-30*01|Oncorhynchus mykiss|IGHV3D|ORF|V-REGION
+cagactaaactcatacag......ccaggctct...ttgactctgcagcctggacagcct
+ctgaccctc...tcctgtaaggtatctgggtattctttaacc......agtagcagctac
+tgtacaggtgtgaatcgccaacctacaggaaaagcactggagtggattggatacatttgt
+tacaat.........ggtaacacatatgacagtgataaactgaaa...aacaagttcagt
+atttccagagatacttccagcagcacagtaactttaacaggacagagtctgcagactgaa
+gacacagctgtgtattattgtgctcgctacc
+>IMGT000043|oncmyk_IGHV4-22*01|Oncorhynchus mykiss|IGHV4|P|V-REGION
+gtgttcagtctggatcag......tctctttct...catgtgaaaagacctgaagacact
+gttaaattg...tcatgtaaaacatctgggtttacaatg............acaggcttc
+tacttgcactggataaggcagaaactaggcaaagcactggagtggatcgggagaatgaat
+agc............aattctccagactactcagactccctcaaa...ggccagttcaca
+ctgactgaggacggctccacaagcacacagtacttagaggccgagagtctgagatcagag
+gactctgctgtttattgttgcgctcgagaga
+>IMGT000044|oncmyk_IGHV4D-13*01|Oncorhynchus mykiss|IGHV4D|P|V-REGION
+gatatcagactggatcag......tcacattct...catgtgtaaagacgaggagatact
+tttaaattg...tcatgtaaaatctctgagtttacaatg............gcaaggttc
+ttcatgcactgcatgaggcagaaaccaggcaaaactctgaagtggattgggagcgttgac
+tctggttaa...acagatgttccagactactcatac......taa...ggatagttcacc
+ctgaatgaggacgtgtccaaaagcacacagcgctttgaggccaagagtctgagatcagag
+gactctgctgtttattattgtgtttgacaga
+>IMGT000044|oncmyk_IGHV4D-23*01|Oncorhynchus mykiss|IGHV4D|F|V-REGION
+tgtgatgagatggatcag......tcaccttct...caggtgaaaagacctggagacacg
+tttaaattg...tcatgtaaaatctctgggtttgatatg............acagactat
+ttcatgcactggataagacagaaaccaggcaaagctctggagtggattgggggtatttac
+tctggttca...acagatgctccagtctactcagactccctgaaa...ggccagttcatc
+cttactgaggacatctctacaagcacacagttcttagaggccaagagtctgagttcagag
+gactctgctgtttattattgtgctcgagaga
+>IMGT000044|oncmyk_IGHV4D-24*01|Oncorhynchus mykiss|IGHV4D|F|V-REGION
+gatatcagactggatcag......tcaccttct...caggtgaaaatacctggacactct
+gttaaagtg...tcctgtataatctctggttattcaatg............actagctat
+gacattcactggataaggcagaaaccagggaaaggacttgagtggattggaagaatgaac
+actggttca...ggaacagatgttatctatgcagactccctgaaa...ggccagttctat
+ctgactgaggacgtctctacaagcacacagttcttagaggccaagagtctgagttcagag
+gactctgctgtttattattgtgctcgacagg
+>IMGT000044|oncmyk_IGHV4D-37*01|Oncorhynchus mykiss|IGHV4D|P|V-REGION
+aacatcaggcaggatcag......tctcctcct...caagtgaaaagacctggagacact
+gttaaattg...tcctgtaaaatctctgctttctcaatg............agtggctac
+tggatacattggatgaggcagaagtgaggcaaagccctggagtggatcaggagaatgaat
+agc............aattctacaatctacacaaactccctgaaa...ggagtgtttgtc
+ctgactgaggacgtctcaacaagcacacagtttttagaggccaagagtctgagagca...
+gacactgctgtttattattgtgctcgagaga
+>IMGT000044|oncmyk_IGHV4D-43*01|Oncorhynchus mykiss|IGHV4D|F|V-REGION
+tgtgatgagatggatcag......tcaccttct...caggtgaaaagacctggagacacg
+tttaaattg...tcatgtaaaatctctgggtttgatatg............acagactat
+ttcatgcactggataagacagaaaccaggcaaagctctggagtggattgggagaattaac
+tctggttca...agaaatgctccagtctactcagactccctgaaa...ggccagttcacc
+cttactgaggacatctctacaagcacacagttcttagaggccaagagtctgagttcagag
+gactctgctgtttattattgtgctcgagaga
+>IMGT000044|oncmyk_IGHV4D-58*01|Oncorhynchus mykiss|IGHV4D|P|V-REGION
+aacatcaggcaggatcag......tctcctcct...caagtgaaaagacctggagacact
+gttaaattg...tcctgtaaaatctctgctttctcaatg............agtggctac
+tggatacattggatgaggcagaagtgaggcaaagccctggagtggatcaggagaatgaat
+agc............aattctacaatctacacaaactccctgaaa...ggagtgtttgtc
+ctgactgaggacgtctcaacaagcacacagtttttagaggccaagagtctgagagca...
+gacactgctgtttattattgtgctcgagaga
+>IMGT000044|oncmyk_IGHV4D-60*01|Oncorhynchus mykiss|IGHV4D|F|V-REGION
+tgtgatgagatggatcag......tctccttct...caggtgaaaagacctggagacaag
+tttaaattg...tcatgtaaaatctctgggtttgatatg............acagactac
+tatatgacctggataagacagaaaccaggcaaagctctggagtggattgggggtattgac
+tctggttca...acaaattctccagactactcagactccctgaaa...ggccagttcagc
+ctgactgaggacgtctctacaagcacacagttcttagaggccaagagtctgagttcagag
+gactctgctgtttattattgtgctcgacagg
+>IMGT000044|oncmyk_IGHV4D-72*01|Oncorhynchus mykiss|IGHV4D|P|V-REGION
+aatatcaggcaggatcag......tctcctcct...caagtgaaaagacctggagacact
+gttaaattg...tcctgtaaaatctctgctttctcaatg............agcggctac
+tggatacactggatgaggcagaagtgaggcaaagccctggagtggatcgggagaatgaat
+agc............aattctacaatctacacaaactccctgaaa...ggagtgtttgtc
+ctgactgaggacgtctcaacaagcacacagtttttagaggccaagagtctgagagca...
+gacactgctgtttattattgtgctcgagaga
+>IMGT000043|oncmyk_IGHV6-31*01|Oncorhynchus mykiss|IGHV6|ORF|V-REGION
+agttatgaactcactcag......ccagcctct...ttgactgtccagccaggtcaacca
+ctgaccatc...tcctgtaaggtctcatattcagttagt...............agctac
+tacacggcttggattcgacagcctgcagggaaaacactggagtggattggatatattagt
+agtggt.........ggaggcacagcttataaagattcactgaaa...aacaagttcagc
+atcaccagagacacgtccagcaacacattgtttttaaaaggacagagtctgcagactgaa
+gacacagctgtgtattattgtgctcgcctc
+>IMGT000043|oncmyk_IGHV6-35*01|Oncorhynchus mykiss|IGHV6|F|V-REGION
+agttatgaactcacacag......ccagcctct...ctgactgtccagccaggtcaacca
+atgaccatc...tcctgtaaggtctcatattcagttact...............ggctat
+tatacagcttggatccgacagcctgtagggaaaacactggagtggattggaaatgtatat
+tct............ggagacacacaatacaaggattctctgaag...aacaagttcagc
+ctctcagtagactctagcagtaatgttgtgtttttaaaagggcagaaccttcagactgaa
+gactcagctgtgtattattgtgcctaccct
+>IMGT000043|oncmyk_IGHV6-4*01|Oncorhynchus mykiss|IGHV6|F|V-REGION
+tgtgaagaactcactcag......ccagcctct...atgactgtccagtcaggtcaacca
+ctgaccatc...tcttgtaaggtttcatattctgtaggt...............agctat
+tacacagcttggatccggcagcctgcagggaaaacactggagtggattggaatgaaatat
+act............ggaggaacgcaccacaaagactccctgaaa...aataagttcagc
+ctcacagtagactcctccagcaatactgtgactttaacaggacagagtctgcagactgag
+gacacagctgtgtattattgtgctcgtctc
+>IMGT000044|oncmyk_IGHV6D-40*01|Oncorhynchus mykiss|IGHV6D|F|V-REGION
+agttatgaactctctcag......ccagcatct...atgactgtcctgccaggtcaacca
+ctgaccatc...tcctgtaaggtctcatattcagttact...............aacact
+tggacatcttggatccgaaagcctgcagggaaaacactggagtggattggaaatgtatat
+tct............ggagacacacaatacaaggattcgctgaag...aacaagttcagc
+ctctcagtagactctagcagtaatactgtgtttttaaaagggcagaaccttcagactgaa
+gactcagctgtgtattattgtgcctaccct
+>IMGT000044|oncmyk_IGHV6D-47*01|Oncorhynchus mykiss|IGHV6D|P|V-REGION
+aattatgaactcaatcag......ccagcctct...atgactgtccagccaggtcaacca
+ctgaccatc...ccatgtaagatctcatattctgttatt...............agctat
+tatacagcttggacttgacagcctgcagggaaaggactggagtggattggaaatgtatat
+tct............ggagacacataatacaataatttactgaag...aacaagttcagc
+ctctcagtagactccagcagtaatactgtgtttttaaaaaggagcaacttccagactgaa
+gacacagttgtgcattattgtgcctacact
+>IMGT000044|oncmyk_IGHV6D-5*01|Oncorhynchus mykiss|IGHV6D|F|V-REGION
+tgtgaagaactcactcag......ccagcctct...atgactgtccagccaggtcaacca
+ctgaccatc...tcctgtaaggtctcatattctgttgct...............agctat
+tggacagcttggatccgacaacctgcagggaaaggactggagtggattgggcaaatatat
+act............ggaaacacaatctacaaggattcactgaaa...aacaagttcagc
+ctcactttagactcctctaacaagatagtgactttaacaggacagaacctgcagactgaa
+gacacagctgtgtattattgtgcccgagact
+>IMGT000044|oncmyk_IGHV6D-6*01|Oncorhynchus mykiss|IGHV6D|P|V-REGION
+tctgatgttctaactcag......ccaggttct...atggttgttaagcca...gtgtca
+ctcaccctc...tcctgtaggatttcaataacaaga.....................tat
+tgtcttcactggattcgacagcctgaaggaaaatcattggaatggatgggatacaaatgc
+agtagt.........gggggcactgaaaccaaagacttagtaaag...agcaaaaccagc
+ttcacagttaacacctccagcaatacggtgtttctacaagggaagaactttcagactgaa
+gacacagctgtttattaatatgcccgaga
+>IMGT000044|oncmyk_IGHV6D-76*01|Oncorhynchus mykiss|IGHV6D|F|V-REGION
+agttatgaactctctcag......ccagcatct...atgactgtcctgccaggtcaacca
+ctgaccatc...tcctgtaaggtctcatattcagttact...............aacgct
+tggacagcttggatccgaaagcctgcagggaaaacactggagtggattggaaatgtatat
+tct............ggagacacagaacacaaggattcactgaag...aacaagttcagc
+ctctcagtagactctagcagtaatactgtgtttttaaaagggcagaaccttcagactgaa
+gactcagctgtgtattattgtgcctaccct
+>IMGT000044|oncmyk_IGHV7D-44*01|Oncorhynchus mykiss|IGHV7D|ORF|V-REGION
+ggtcttgaactcagccag......ccaagttta...ttggttgtaaagcctggagagtct
+ctgagcatc...acctgtaaggtctctgggtattctgttagtgatagcagcataagcttt
+gccacaggtcgggttcgaaagcctgcagggaaagcaatagagtggatttcccatatatgg
+gatgat.........ggagatatctacaaaactgattcactgaaa...aacatgttcagc
+atttcaagagatgcctcctgtaactctgtgtcttttaaaagccagagcctgcaa...caa
+gacacagctgtgtattactgtgttcgctacccac
+>IMGT000044|oncmyk_IGHV7D-45*01|Oncorhynchus mykiss|IGHV7D|ORF|V-REGION
+ggtcttgaactcagccag......ccaagttta...ttggttgtaaagcctggagagtct
+ctgagcatc...acctgtaaggtctctgggtattctgttagtgatagcagcataagcttt
+gccacaggtcgggttcgaaagcctgcagggaaagcaatagagtggatttcccatatatgg
+gatgat.........ggagatatctacaaaactgattcactgaaa...aacatgttcagc
+atttcaagagatgcctcctgtaactctgtgtcttttaaaagccagagcctgcaa...caa
+gacacagctgtgtattactgtgttcgctacccac
+>IMGT000044|oncmyk_IGHV7D-61*01|Oncorhynchus mykiss|IGHV7D|ORF|V-REGION
+ggtcttgaactcagccag......ccaagttta...ttggttgtaaagcctggagagtct
+ctgagcatc...acctgtaaggtctctgggtattctgttagtgatagcagcataagcttt
+gccacaggtcgggttcgaaagcctgcagggaaagcaatagagtggatttcccatatatgg
+gatgat.........ggagatatctacaaaactgattcactgaaa...aacatgttcagc
+atttcaagagatgcctcctgtaactctgtgtcttttaaaagccagagcctgcaa...caa
+gacacagctgtgtattactgtgttcgctacccac
+>IMGT000044|oncmyk_IGHV7D-62*01|Oncorhynchus mykiss|IGHV7D|ORF|V-REGION
+ggtcttgaactcagccag......ccaagttta...ttggttgtaaagcctggagagtct
+ctgagcatc...acctgtaaggtctctgggtattctgttagtgatagcagcataagcttt
+gccacaggtcgggttcgaaagcctgcagggaaagcaatagagtggatttcccatatatgg
+gatgat.........ggagatatctacaaaactgattcactgaaa...aacatgttcagc
+atttcaagagatgcctcctgtaactctgtgtcttttaaaagccagagcctgcaa...caa
+gacacagctgtgtattactgtgttcgctacccac
+>IMGT000043|oncmyk_IGHV8-11*01|Oncorhynchus mykiss|IGHV8|P|V-REGION
+caggtcgtactcacacag......gctgaacagtcagtccaggggagccccgggggatcc
+ctcaaactcctgtagtgtgcctgtagtggatttact............ctaagcagcact
+aatatgtactggatccgccaagcacctggaaaaggacttgaatggattgtttactattat
+tct.........gacagtgacaagagcaatgcccaggtagta...cagagtagattcaca
+gcgttgaag......gacagcagtaatttctatctccacatgagccagttgaagccagag
+gactctgcagtgtattactttgctagagact
+>IMGT000043|oncmyk_IGHV8-19*01|Oncorhynchus mykiss|IGHV8|ORF|V-REGION
+caggtcgtactcacacag......gctgaacagtcagtccaggggacccctgcaggatcc
+ctcaaactc...acatgtgcctgtagtggattcactcta............agcagcagt
+tacatgcactggatccgccaggcacctggaaaaggacttgaatggataatttactattac
+tctgat.........agtaacaagagcaatgcccctgtagtacag...ggtagattcaca
+gcgttgaaggac......agcactaatttctatctgcacatgaacctgttgaagccagag
+gactccgcagtgtattactgtgctagagact
+>IMGT000043|oncmyk_IGHV8-30*01|Oncorhynchus mykiss|IGHV8|F|V-REGION
+caggtcgtactcacacag......gctgaacagtcagtccaggggactcctgcaggatcc
+ctcaaactc...acatgtgcctgtagtggattcactcta............agcagcact
+aatatgcactggatccgccaagcacctggaaaaggacttgaatggatcatttactattat
+tctgac.........agttacaagagcaatgcccctgtagtacag...ggccgattcact
+gcatcaaaggac......agcagtaatttatatctgcacatgagccagttgaagccagag
+gactctgcagtgtattactgtgctagagact
+>IMGT000043|oncmyk_IGHV8-40*01|Oncorhynchus mykiss|IGHV8|F|V-REGION
+caggtcgtactcacacag......gctgaacagtcagtccaggggactcctgcaggatcc
+ctcaaactc...acatgtgcctgtagtggattcactcta............agcagcact
+aatatgcactggatccgccaagcacctggaaaaggacttgaatggatcatttactattat
+tctgac.........agttacaagagcaatgcccctgtagtacag...ggccgattcact
+gcatcaaaggac......agcagtaatttatatctgcacatgagccagttgaagccagag
+gactctgcagtgtattactgtgctagagact
+>IMGT000043|oncmyk_IGHV8-46*01|Oncorhynchus mykiss|IGHV8|F|V-REGION
+cagatcgtactcacacag......gctgagtca...gtccaggggactcctgcaggatcc
+ctcaaactc...acatgtgcctgtagtggattcactcta............agcagcact
+aatatgttttggatccgccaggcacctggaaaaggacttgaatggatcatttactattat
+tctgac.........agtgacaagagcaatgcccctgtagtacag...ggtcgattcact
+gcatcaaaggac......agcagtaatttctatctccacatgagccagttgaagccagag
+gactctgcagtgtattactgtgctagagact
+>IMGT000043|oncmyk_IGHV8-5*01|Oncorhynchus mykiss|IGHV8|F|V-REGION
+caggtcgtactcacacag......gctgaacagtcagtccaggggactcctgcaggatcc
+ctgaaactc...acatgtgcctgtagtggaatcactcta............agcagcagt
+tacatgcactgggtccgccaggcacctggaaaaggacttgaatggatcatttactattat
+tctgac.........agtgacaagagcaatgcccctgtagtacag...ggtcgattcact
+gcatcgaaggac......agcactaatttctatctgcacatgagccagttgaagtcagag
+gactctgcaatgtattactgtgctagagact
+>IMGT000043|oncmyk_IGHV9-15*01|Oncorhynchus mykiss|IGHV9|F|V-REGION
+gggcagtcactcacctcc......tctgagcca...gtagtgaagagacctagtgagtca
+gtaacactg...tcctgtactgtgtctggattctccatg............ggtagctac
+tggatgcaatggatccgtcagaaaccagggaaaggattggagtggattggattcattgac
+act.........ggaaccactgcttattatgcccagtctctc...cagggccagttcacc
+atcaccaaagacacctccaaaaaccagctgtacttagagatgaaaagtctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV9-23*01|Oncorhynchus mykiss|IGHV9|F|V-REGION
+ggacagtcactcacctcc......tctgagtca...gtggtgaagagccctggagagtca
+gtaacactg...tcatgtactgtgtctggtttctccatg............gatagctac
+tacatgcactggatccgtcagaaaccagggaaaggtctagagtggattggccttattgac
+actggc.........actggcactgtatttgctcagtccctccag...ggccagttcacc
+atcaccaaagacaactccaaaaaccagttgtacttagaggtgaaaagcctgaagactgaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV9-34*01|Oncorhynchus mykiss|IGHV9|P|V-REGION
+gggcagtcactcacctcc......tctgagtca...gtggtgaagagacctagtgagtca
+gtaacagtg...tcctgtactgtgtctggtttctctatg............ggtagctac
+tacatgcactggatgcgtcagaaaccagggaaagaactagagtggattgggcaaattgat
+gggggc.........actggcactatatttgtccagtccatccag...ggccaattcacc
+atcactaaagacagcttcaaaaaccagctgtactgaaatgtgaaaagcctgaagactaaa
+gactctgctgtttattattgtgccagaga
+>IMGT000043|oncmyk_IGHV9-45*01|Oncorhynchus mykiss|IGHV9|F|V-REGION
+gggcagtcactcacctcc......tctgagcca...gtagtgaagagacctagtgagtca
+gtaacactg...tcctgtgctgtgtctggattctccatg............gctagctac
+tggacgcactggatccgtcagaaaccagggaaaggtctagagtggattgggctcattgac
+agtggc.........actggcactatatttgcccaatctctacag...ggtcagttcacc
+atcaccaaagacagctccaaaaaccagctgtacctcgaggtaaaaagcctgaagaccaaa
+gactctgctgtttattattgtgccagaga
+>IMGT000044|oncmyk_IGHV9D-2*01|Oncorhynchus mykiss|IGHV9D|F|V-REGION
+gggcagtcactcacctcg......tctgagcca...gtggtgaagaaacctagagagtca
+gtaacactg...tcctgtgctgtctctggcctttct..................ctaagc
+tatctgcattggatccgtcagaaaccagggaaaggacttgagtggattgggcgcattgac
+ggtggc.........actggcactgtatttgcccagtctctccag...ggccagttcacc
+atcaccaaagacggctcaaaaaaccagctgtacttagaggtgaaaagcctgaagactgaa
+gactctgctgtttattattgtgctagaga

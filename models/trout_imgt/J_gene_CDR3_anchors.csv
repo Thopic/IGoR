@@ -1,7 +1,19 @@
 gene;anchor_index;function
-IGHJ1*01;14;F
-IGHJ2*01;18;F
-IGHJ3*01;17;F
-IGHJ4*01;17;F
-IGHJ5*01;17;F
-IGHJ6*01;17;F
+IMGT000043|oncmyk_IGHJ1*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ1D*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000043|oncmyk_IGHJ1T1*01|Oncorhynchus mykiss|F|J-REGION;14
+IMGT000044|oncmyk_IGHJ1T1D*01|Oncorhynchus mykiss|F|J-REGION;14
+IMGT000043|oncmyk_IGHJ1T2*01|Oncorhynchus mykiss|F|J-REGION;14
+IMGT000043|oncmyk_IGHJ2*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ2D*01|Oncorhynchus mykiss|F|J-REGION;15
+IMGT000043|oncmyk_IGHJ2T1*01|Oncorhynchus mykiss|F|J-REGION;18
+IMGT000044|oncmyk_IGHJ2T1D*01|Oncorhynchus mykiss|F|J-REGION;18
+IMGT000043|oncmyk_IGHJ2T2*01|Oncorhynchus mykiss|F|J-REGION;18
+IMGT000043|oncmyk_IGHJ3*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ3D*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000043|oncmyk_IGHJ4*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ4D*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000043|oncmyk_IGHJ5*01|Oncorhynchus mykiss|F|J-REGION;19
+IMGT000044|oncmyk_IGHJ5D*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ6D*01|Oncorhynchus mykiss|F|J-REGION;17
+IMGT000044|oncmyk_IGHJ7D*01|Oncorhynchus mykiss|F|J-REGION;19

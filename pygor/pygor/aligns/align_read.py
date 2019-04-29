@@ -109,3 +109,6 @@ def has_mismatches(x):
     tmp = numpy.asarray(x.mismatches)
     return any(numpy.multiply(tmp >= x["5_p_align_offset"],
                               tmp <= x["3_p_align_offset"]))
+
+
+def is_out_of_frame(x):
